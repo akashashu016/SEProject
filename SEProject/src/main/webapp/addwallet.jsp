@@ -297,10 +297,9 @@ You can't buy Happiness,<br/>but you can buy Food which gives happines...</p>
                                                         <div class="single_contact_info">
                                                             <div class="single_info_text">
                                                                 <h3 style="font-family:Bradley Hand ITC;font-size:45px; font-weight:bold;">OUR ADDRESS</h3>
-                                                                <h4 style="font-family:Bradley Hand ITC;">BhojReddy Engineering College For Women,<br/>
-																Vinay Nagar<br/>
-																Saidabad<br/>
-																Hyderabad-500059
+                                                                <h4 style="font-family:Bradley Hand ITC;">Wright State University,<br/>
+																Dayton<br/>
+																Ohio-45324
 																</h4>
                                                             </div>
                                                         </div>
@@ -309,8 +308,8 @@ You can't buy Happiness,<br/>but you can buy Food which gives happines...</p>
                                                         <div class="single_contact_info">
                                                             <div class="single_info_text">
                                                                 <h3 style="font-family:Bradley Hand ITC;font-size:45px; font-weight:bold;">CALL US</h3>
-                                                                <h4 style="font-family:Bradley Hand ITC;">+91 9848192571</h4>
-                                                                <h4 style="font-family:Bradley Hand ITC;">+91 9700869657</h4>
+                                                                <h4 style="font-family:Bradley Hand ITC;">+1(123)-456-789</h4>
+                                                                <h4 style="font-family:Bradley Hand ITC;">+1(123)-456-789</h4>
                                                             </div>
                                                         </div>
                                                     </div>
